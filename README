@@ -1,0 +1,4 @@
+快速集成相册功能,修复了对最新版SDWebImage的支持
+使用方法:
+把MJPhotoBrowser加入工程中,同时导入SDWebImage和MBProgressHUD
+具体使用方法,参看demo
